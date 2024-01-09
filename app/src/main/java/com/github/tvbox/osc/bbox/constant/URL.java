@@ -2,8 +2,8 @@ package com.github.tvbox.osc.bbox.constant;
 
 public class URL {
     public static String DOMAIN_NAME_PROXY = "";
-    public static final String GITHUB_VERSION_PATH = "https://raw.githubusercontent.com/mlabalabala/box/main/version.json";
-    public static final String APK_PATH = "https://raw.githubusercontent.com/mlabalabala/box/main/Release/app-release.apk";
+    public static final String GITHUB_VERSION_PATH = "https://github.com/Aijiaobin/TV_box/blob/main/version.json";
+    public static final String APK_PATH = "http://bing.x3322.net:5244/d/tianyi/%E6%88%91%E7%9A%84%E5%BA%94%E7%94%A8/AiMovie.apk";
     // public static final String DOMAIN_NAME_PROXY = "http://192.168.3.159:81";
     // public static final String GITHUB_VERSION_PATH = "/chfs/shared/Github_Project/box/version.json";
     // public static final String APK_PATH = "/chfs/shared/Github_Project/box/Release/app-release.apk";
